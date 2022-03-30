@@ -83,7 +83,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 ### answer 2
 Potongan kode yang perlu disisipkan adalah
 ```
-y = np.sin((np.pi * x) - (np.pi * i))
+y = np.sin(np.pi * (x- i))
 ```
 dan hasil berkas gifnya adalah \
 ![basic_animation](https://user-images.githubusercontent.com/97928821/160808568-a651ded1-ed6f-4b4d-9f26-1026cfddfd62.gif) \
@@ -96,7 +96,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 ### answer 3
 Potongan kode yang perlu disisipkan adalah
 ```
-y = np.sin((-np.pi * x) + (np.pi * i))
+y = np.sin(np.pi * (x + i))
 ```
 dan hasil berkas gifnya adalah \
 ![basic_animation_1](https://user-images.githubusercontent.com/97928821/160808610-fb7b24fa-1ecc-41ee-a54f-490b97f92eac.gif) \

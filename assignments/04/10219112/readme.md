@@ -86,7 +86,7 @@ Potongan kode yang perlu disisipkan adalah
 y = np.sin((np.pi * x) - (np.pi * i))
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to right](/assighments/04/10219112/gif/basic_animation.gif)
+![gif file from simulation wave to right](https://github.com/HanzHamzahK/fi3201-01-2021-2/tree/main/assignments/04/10219112/gif/basic_animation.gif)
 
 
 ## question 3
@@ -98,7 +98,7 @@ Potongan kode yang perlu disisipkan adalah
 y = np.sin((-np.pi * x) + (np.pi * i))
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to left](/assighments/04/10219112/gif/basic_animation_1.gif)
+![gif file from simulation wave to left](https://github.com/HanzHamzahK/fi3201-01-2021-2/tree/main/assignments/04/10219112/gif/basic_animation_1.gif)
 
 
 ## question 4
@@ -110,4 +110,4 @@ Potongan kode yang perlu disisipkan adalah
 np.sin(np.pi * x) * np.cos(np.pi * i)
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave stationary](/assighments/04/10219112/gif/basic_animation_2.gif)
+![gif file from simulation wave stationary](https://github.com/HanzHamzahK/fi3201-01-2021-2/tree/main/assignments/04/10219112/gif/basic_animation_2.gif)
